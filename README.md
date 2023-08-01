@@ -1,3 +1,5 @@
+Your site is live at https://bomar-dev.github.io/usestate2/
+
 Learning react useState 
 
 alternative : 
